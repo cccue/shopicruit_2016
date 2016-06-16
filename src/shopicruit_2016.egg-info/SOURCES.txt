@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README
+VERSION
+setup.cfg
+src/shopicruit_2016/__init__.py
+src/shopicruit_2016.egg-info/PKG-INFO
+src/shopicruit_2016.egg-info/SOURCES.txt
+src/shopicruit_2016.egg-info/dependency_links.txt
+src/shopicruit_2016.egg-info/requires.txt
+src/shopicruit_2016.egg-info/top_level.txt
+test/test_shopicruit_2016.py
