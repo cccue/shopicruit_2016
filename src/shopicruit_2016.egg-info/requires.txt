@@ -1,3 +1,0 @@
-numpy
-jsonschema
-urllib3
